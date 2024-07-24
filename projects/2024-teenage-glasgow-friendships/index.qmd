@@ -1,0 +1,16 @@
+---
+title: "Teenage Glasgow Friendship Network"
+author: "Eleni Omiridou"
+date: 2024-07-23
+categories: [Friendship Network, Temporal Network, Raphtory]
+format: html
+---
+
+<a href="https://raphtory-pyvis-teenage-glasgow-friendship.streamlit.app" class="btn btn-secondary">Full Screen</a>
+<br> 
+
+<iframe src="https://raphtory-pyvis-teenage-glasgow-friendship.streamlit.app/?embed=true"
+  height=890 width=900
+  scrolling="yes">
+</iframe>
+

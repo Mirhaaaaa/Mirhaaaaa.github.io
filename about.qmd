@@ -1,0 +1,15 @@
+---
+title: "About"
+image: "images/me.jpg"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+> My PhD focuses on using secondary data to delineate mechanisms driving health behaviours, thinking of social influence. My previous studies in Economics have shaped my perspective behind incentive mechanisms and individual decision-making. I am interested to collaborate on longitudinal models simulating information diffusion. I am looking forward to contributing to impactful research with my Scottish Graduate School for Social Sciences studentship.
+
+<br>
+
